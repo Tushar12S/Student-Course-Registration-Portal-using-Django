@@ -1,5 +1,4 @@
 # Student-Course-Registration-Portal-using-Django
-# 🧑‍🎓 Student Course Registration Portal
 
 Student Course Registration Portal is a Django-based web application designed to streamline student enrollment into academic courses.
 It allows administrators to view students and courses, register students manually or via AJAX, and download data in CSV or PDF formats.
